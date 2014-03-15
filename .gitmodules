@@ -1,0 +1,3 @@
+[submodule "RNNLIB"]
+	path = RNNLIB
+	url = https://kastnerkyle@github.com/kastnerkyle/RNNLIB

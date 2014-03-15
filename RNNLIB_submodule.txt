@@ -1,0 +1,4 @@
+Added RNNLIB as git submodule using the following command: 
+
+git submodule add https://kastnerkyle@github.com/kastnerkyle/RNNLIB RNNLIB
+
